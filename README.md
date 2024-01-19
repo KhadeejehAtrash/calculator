@@ -9,8 +9,6 @@ This is a simple calculator project written in Python.
 - Multiplication
 - Division
 
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.x
